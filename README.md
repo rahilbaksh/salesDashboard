@@ -26,7 +26,7 @@ This Power BI dashboard analyzes the sales performance of a Superstore across va
 
 ## 📸 Preview
 
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ## 📈 Key Insights
 - The East region had the highest sales.
